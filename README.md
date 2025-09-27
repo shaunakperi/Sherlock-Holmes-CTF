@@ -1,6 +1,6 @@
 # BlueTeam-CTF
 Hack The Box - Capture The Flag - Sherlock Holmes
-Our 5-day Blue Team HTB CTF Challange
+Our 5-day Blue Team HTB CTF Challenge
 Team: Sherlock Homies
 Members:
 > Benjamin Taylor: https://www.linkedin.com/in/btayl106/
@@ -12,7 +12,8 @@ Members:
 
 Ranking: 634/7,085 Teams
 
-Summary: Holmes left some vague context (as he does) before heading out into the field. Here’s what we know: 
+Summary: 
+Holmes left some vague context (as he does) before heading out into the field. Here’s what we know: 
 
 We are getting strange readings from around the city; there were some targeted attacks on local businesses that seemed off. Who was chosen and the type of attack piqued Holmes’ interest, so he set out ahead of us. 
 
