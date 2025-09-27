@@ -1,18 +1,28 @@
 # BlueTeam-CTF
 Hack The Box - Capture The Flag - Sherlock Holmes
+
 Our 5-day Blue Team HTB CTF Challenge
+
 Team: Sherlock Homies
+
 Members:
 > Benjamin Taylor: https://www.linkedin.com/in/btayl106/
+
 > Greyson Brummer: https://www.linkedin.com/in/greyson-brummer-b82119301/
+
 > Jonathan Lutabingwa: https://www.linkedin.com/in/jonathan-lutabingwa/
+
 > Lansina Diakite: https://www.linkedin.com/in/lansina-diakite-7a673b202/
+
 > Shaunak Peri: https://www.linkedin.com/in/shaunak-peri-315744245/
 
 
 Ranking: 634/7,085 Teams
 
+
+
 Summary: 
+
 Holmes left some vague context (as he does) before heading out into the field. Here’s what we know: 
 
 We are getting strange readings from around the city; there were some targeted attacks on local businesses that seemed off. Who was chosen and the type of attack piqued Holmes’ interest, so he set out ahead of us. 
