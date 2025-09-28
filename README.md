@@ -3,9 +3,11 @@ Hack The Box - Capture The Flag - Sherlock Holmes
 
 Our 5-day Blue Team HTB CTF Challenge
 
-Team: Sherlocks Homies
+<h2>Team:</h2> 
+Sherlocks Homies
 
-Members:
+<h2>Members:</h2>
+
 > Benjamin Taylor: https://www.linkedin.com/in/btayl106/
 
 > Greyson Brummer: https://www.linkedin.com/in/greyson-brummer-b82119301/
@@ -17,11 +19,12 @@ Members:
 > Shaunak Peri: https://www.linkedin.com/in/shaunak-peri-315744245/
 
 
-Ranking: 634/7,085 Teams
+<h2>Ranking:</h2> 
+634/7,085 Teams
 
 
 
-Summary: 
+<h2>Description:</h2> 
 
 Holmes left some vague context (as he does) before heading out into the field. Here’s what we know: 
 
@@ -36,3 +39,16 @@ Reputations ruined. Careers ended. The entire city was paralyzed over a phantom 
 So, we are just as confused about why he’d mention WATSON now, but you never can get a read on that man. 
 
 Head out into the field and assist him in finding out what’s going on. We are counting on your detectives. 
+
+
+
+
+
+<h2>Summary:</h2>
+Our team worked hard all day and night, sometimes past 3:00 a.m., to find all the flags for each challenge. We collaborated using tools like virtual machines, Wireshark, Volatility3, Google, and YouTube videos to piece together solutions and capture the right flags. 
+<br>
+<br>
+We successfully completed The Card, Enduring Echo, and The Tunnel Without Walls. 
+<br>
+<br>
+Although we didn’t finish Watchman’s Residue and The Payload, the experience sharpened our skills, strengthened our teamwork, and gave us a clear plan for what to tackle next.
