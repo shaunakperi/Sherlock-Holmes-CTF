@@ -45,7 +45,7 @@ Head out into the field and assist him in finding out what’s going on. We are 
 
 
 <h2>Summary:</h2>
-Our team worked hard all day and night, sometimes past 3:00 a.m., to find all the flags for each challenge. We collaborated using tools like virtual machines, Wireshark, Volatility3, Google, and YouTube videos to piece together solutions and capture the right flags. 
+Our team worked hard all day and night, sometimes past 3:00 a.m., to try to find all the flags for each challenge. We collaborated using tools like virtual machines, Wireshark, Volatility3, Google, and YouTube videos to piece together solutions and capture the right flags. 
 <br>
 <br>
 We successfully completed The Card, Enduring Echo, and The Tunnel Without Walls. 
