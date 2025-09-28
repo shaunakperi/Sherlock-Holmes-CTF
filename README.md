@@ -3,7 +3,7 @@ Hack The Box - Capture The Flag - Sherlock Holmes
 
 Our 5-day Blue Team HTB CTF Challenge
 
-Team: Sherlock Homies
+Team: Sherlocks Homies
 
 Members:
 > Benjamin Taylor: https://www.linkedin.com/in/btayl106/
