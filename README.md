@@ -1,4 +1,4 @@
-# BlueTeam-CTF
+# Hack The Box - Capture The Flag - Sherlock Holmes
 Hack The Box - Capture The Flag - Sherlock Holmes
 
 Our 5-day Blue Team HTB CTF Challenge
