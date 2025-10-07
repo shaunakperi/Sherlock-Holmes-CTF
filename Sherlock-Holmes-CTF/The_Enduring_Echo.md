@@ -27,4 +27,4 @@ Found a relevant log on 8/24/2025 at 6:51:09 PM showing the first command of the
 The Process Command Line value showed the executed command: systeminfo.
 <br>
 <br>
-<img src="">
+<img src="The_Enduring_Echo_Images/Question 1.png">
