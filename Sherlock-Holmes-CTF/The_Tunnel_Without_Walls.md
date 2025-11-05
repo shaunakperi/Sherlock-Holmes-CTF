@@ -27,7 +27,7 @@ It showed: Linux version 5.10.0-35-amd64.
 5.10.0-35-amd64 is teh answer to question 1
 <br>
 <br>
-<img src="The_Tunnel_Without_Walls/Question 1.png">
+<img src="The_Tunnel_Without_Walls_Images/Question 1.png">
 
 <h2>Question 2</h2>
 <h3>The attacker connected over SSH and executed initial reconnaissance commands. What is the PID of the shell they used?</h3>
@@ -49,7 +49,7 @@ PID 13608 is the attacker’s shell process.
 13608 is the answer to question 2
 <br>
 <br>
-<img src="The_Tunnel_Without_Walls/Question 2.png">
+<img src="The_Tunnel_Without_Walls_Images/Question 2.png">
 
 <h2>Question 3</h2>
 <h3> After the initial information gathering, the attacker authenticated as a different user to escalate privileges. Identify and submit that user's credentials.</h3>
@@ -142,7 +142,7 @@ From that, we learned the username of the person who accessed the City of CogWor
 mike.sullivan is the answer to question 8
 <br>
 <br>
-<img src="The_Tunnel_Without_Walls/Question 8.png">
+<img src="The_Tunnel_Without_Walls_Images/Question 8.png">
 <h2>Question 9</h2>
 <h3>Finally, the user updated the software to the latest version, as suggested on the internal portal, and fell victim to a supply chain attack. From which Web endpoint was the update downloaded?</h3>
 <br>
