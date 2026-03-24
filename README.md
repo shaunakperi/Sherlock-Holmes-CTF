@@ -1,53 +1,62 @@
-# Hack The Box - Capture The Flag - Sherlock Holmes
-Hack The Box - Capture The Flag - Sherlock Holmes
+# 🔍 Sherlocks Homies — HTB CTF: Sherlock Holmes
 
-Our 5-day Blue Team HTB CTF Challenge
+> **Hack The Box · Capture The Flag · Blue Team Series**
 
-<h2>Team:</h2> 
-Sherlocks Homies
+---
 
-<h2>Members:</h2>
+## 🏆 Result
 
-> Benjamin Taylor: https://www.linkedin.com/in/btayl106/
+| Stat | Value |
+|------|-------|
+| **Final Rank** | #634 out of 7,085 teams |
+| **Team Size** | 5 members |
+| **Duration** | 5 days |
+| **Track** | DFIR — Sherlock Holmes Series |
 
-> Greyson Brummer: https://www.linkedin.com/in/greyson-brummer-b82119301/
+---
 
-> Jonathan Lutabingwa: https://www.linkedin.com/in/jonathan-lutabingwa/
+## 👥 Team
 
-> Lansina Diakite: https://www.linkedin.com/in/lansina-diakite-7a673b202/
+| Name | LinkedIn |
+|------|----------|
+| Benjamin Taylor | [btayl106](https://www.linkedin.com/in/btayl106/) |
+| Greyson Brummer | [greyson-brummer-b82119301](https://www.linkedin.com/in/greyson-brummer-b82119301/) |
+| Jonathan Lutabingwa | [jonathan-lutabingwa](https://www.linkedin.com/in/jonathan-lutabingwa/) |
+| Lansina Diakite | [lansina-diakite-7a673b202](https://www.linkedin.com/in/lansina-diakite-7a673b202/) |
+| Shaunak Peri | [shaunak-peri-315744245](https://www.linkedin.com/in/shaunak-peri-315744245/) |
 
-> Shaunak Peri: https://www.linkedin.com/in/shaunak-peri-315744245/
+---
 
+## 📋 Case Briefing
 
-<h2>Ranking:</h2> 
-634/7,085 Teams
+Holmes left some vague context before heading into the field. Strange readings from around the city. Targeted attacks on local businesses that seemed… off. The who and the how piqued his interest.
 
+But he was muttering about something else — his personal AI, **WATSON**. His collaborative ally in curbing the city's crime. Shut down after a catastrophic false-alert event triggered a year-long manhunt for a breach that never existed.
 
+> *Reputations ruined. Careers ended. A city paralyzed by a phantom of its own making. The event known as **NULLINC**.*
 
-<h2>Description:</h2> 
+We don't know why he'd mention WATSON now. But you never can get a read on that man.
 
-Holmes left some vague context (as he does) before heading out into the field. Here’s what we know: 
+Head out into the field — we're counting on you, detectives.
 
-We are getting strange readings from around the city; there were some targeted attacks on local businesses that seemed off. Who was chosen and the type of attack piqued Holmes’ interest, so he set out ahead of us. 
+---
 
-Odd though… he was muttering about something that had happened a while back, and he expressed distress about a personal AI he developed named WATSON. 
+## 🛠️ Tools Used
 
-See, WATSON was his collaborative ally in his attempts to curb the crime happening around the city. However, some time ago, a catastrophic false-alert event caused by WATSON triggered a year-long manhunt for a breach that never existed. We were chasing ghosts.  
+- **Wireshark** — packet capture analysis
+- **Volatility3** — memory forensics
+- **Virtual Machines** — isolated investigation environments
+- **Google / YouTube** — research and technique discovery
 
-Reputations ruined. Careers ended. The entire city was paralyzed over a phantom that was in our own backyard. The event known as NULLINC caused Holmes to shut down his creation, his friend. 
+---
 
-So, we are just as confused about why he’d mention WATSON now, but you never can get a read on that man. 
+## 📝 Summary
 
-Head out into the field and assist him in finding out what’s going on. We are counting on your detectives. 
+Our team worked through all five days and deep into most nights — sometimes past 3:00 a.m. — chasing flags across every challenge. We collaborated closely, divided investigative threads, and converged on solutions together. When we were stuck, we dug deeper: packet captures, memory forensics, open-source research, and plenty of trial and error.
 
+---
 
-
-
-
-<h2>Summary:</h2>
-Our team worked hard all day and night, sometimes past 3:00 a.m., to try to find all the flags for each challenge. We collaborated with each other and used tools like virtual machines, Wireshark, Volatility3, Google, and YouTube videos to piece together solutions and capture the right flags. 
-<br>
-<br>
+*HTB CTF — Sherlock Holmes Series · Team: Sherlocks Homies · Rank 634 / 7,085*
 We successfully completed The Card, Enduring Echo, and The Tunnel Without Walls. 
 <br>
 <br>
